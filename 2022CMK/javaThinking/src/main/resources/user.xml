@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="GB2312"?>
+<users>
+    <user id="TR10001" country="chinese">
+        <id name="U8650">10001</id>
+        <name name="HW123">admin</name>
+        <password name="HW321">111111</password>
+    </user>
+</users>
